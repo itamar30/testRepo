@@ -4,13 +4,8 @@
  *
  * @format
  */
-<<<<<<< Updated upstream
-//////////////
-//anotherchangexs
-//fefef
-=======
-///thirs branch change
->>>>>>> Stashed changes
+////////////// miN CHANGE
+
 import React from 'react';
 import type {PropsWithChildren} from 'react';
 import {
