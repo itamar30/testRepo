@@ -5,7 +5,7 @@ import {
   Text,
   View,
 } from 'react-native';
-
+//newBrnach comment
 
 
 function App(): JSX.Element {
