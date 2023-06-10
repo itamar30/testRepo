@@ -6,7 +6,7 @@ import {
   View,
 } from 'react-native';
 //newBrnach comment
-
+//anothjer
 
 function App(): JSX.Element {
  
