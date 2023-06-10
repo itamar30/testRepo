@@ -6,7 +6,7 @@ import {
   View,
 } from 'react-native';
 //newBrnach comment
-
+//git main comme
 
 function App(): JSX.Element {
  
